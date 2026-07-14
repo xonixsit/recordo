@@ -1,0 +1,6 @@
+{
+  "name": "ScribeBiz AI",
+  "description": "An AI-first business communication platform that transforms screen recordings and client meetings into actionable follow-ups, SOPs, proposals, and knowledge bases for solopreneurs.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
